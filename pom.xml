@@ -74,6 +74,7 @@
 				<configuration>
 					<skipTests>true</skipTests>
 				</configuration>
+				<executable>true</executable>
 			</plugin>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
